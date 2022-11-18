@@ -1,0 +1,22 @@
+.header{
+  display: flex;
+  padding: 30px 20px;
+  width: 100%;
+  align-items: center;
+  transition: 0.5s all;
+}
+
+@media screen and (max-width: 580px) {
+  .header{
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    padding: 20px 16px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .header{
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+}

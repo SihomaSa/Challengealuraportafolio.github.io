@@ -1,0 +1,30 @@
+.experiencia__container--btn{
+  cursor: pointer;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.light{
+  color: #012c66;
+  border: 1px solid #012c66;
+}
+.light:hover{
+  background-color: #D4E4FA;
+}
+
+.dark{
+  background-color: #012c66;
+  color: #fff;
+  margin-left: 10px;
+  border: none;
+}
+
+.dark:hover{
+  background-color: #034294;
+  color: #fff;
+}
+
+.btn-enviar, .btn-enviar:hover{
+  background-color: green;
+  color: #fff;
+}

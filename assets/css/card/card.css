@@ -1,0 +1,14 @@
+.card{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 32px 20px;
+  transition: 0.5s all;
+}
+
+@media screen and (max-width: 360px) {
+  .card{
+    padding: 32px 0px;
+  }
+}

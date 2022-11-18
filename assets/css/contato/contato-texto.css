@@ -1,0 +1,9 @@
+.contato__texto{
+  height: 100px;
+  resize: none;
+  overflow-y: auto;
+}
+
+.contato__texto::placeholder{
+  visibility: visible;
+}

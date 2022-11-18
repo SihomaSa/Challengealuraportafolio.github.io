@@ -1,0 +1,11 @@
+.cards__img{
+  height: 50px;
+  left: 10%;
+  position: absolute;
+  top:10%;
+  width: 50px;
+}
+
+.card svg{
+  margin-bottom: 5px;
+}

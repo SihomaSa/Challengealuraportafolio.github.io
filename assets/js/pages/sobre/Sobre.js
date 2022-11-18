@@ -8,7 +8,7 @@ export function Sobre() {
   const paragrafo2 = montarElemento('p','sobre-mim__texto');
   const paragrafo3 = montarElemento('p','sobre-mim__texto');
   h2.textContent = 'Sobre mí'
-  h2.setAttribute('id','Sobre')
+  h2.setAttribute('id','Sobre mí')
   
   paragrafo1.textContent = 'Empecé mis estudios con programación a inicios de 2022. Comenzando con HTML y CSS, desarrollado en un curso de la universidad. Esto despertó mi interés por el desarrollo.'
 

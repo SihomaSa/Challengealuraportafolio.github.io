@@ -2,7 +2,7 @@ import { infos } from '../../Infos.js'
 import { montarElemento } from "../../Functions.js";
 
 
-const itens = ['Sobre mi', 'Skills', 'Hobbies', 'Formación', 'Proyectos', infos.email]
+const itens = ['Sobre mí', 'Skills', 'Hobbies', 'Formación', 'Proyectos', infos.email]
 
 export function NavBar() {
   

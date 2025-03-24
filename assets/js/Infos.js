@@ -65,19 +65,19 @@ export const dataBase = (cor) => {
       {
         imagem: 'https://www.unsch.edu.pe/identidad/assets/images/logo-horizontal-png-600x333.png',
         nome: 'Ingeniería de Sistemas',
-        status: '2018 - Dejado temporalmente',
+        status: '2018 - 2023',
         acessibilidade: 'Texto com a palavra: Descomplica! Descomplica é uma faculdade digital.'
       },
       {
         imagem: 'https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png',
         nome: 'Beca Bicentenario - FullStack',
-        status: '2022 - En curso',
+        status: '2022 - 2023',
         acessibilidade: 'Imagem de um certificado de conclusão de curso da instituição, Danki Code.'
       },
       {
         imagem: 'https://www.alura.com.br/assets/img/challenges/oracle-one/share_image.1647533644.jpg',
         nome: 'Front-End',
-        status: '2022 - En curso',
+        status: '2022 - 2023',
         acessibilidade: 'Imagem de um certificado de conclusão de curso da instituição Alura.'
       }
     ],
@@ -106,9 +106,26 @@ export const dataBase = (cor) => {
         repositorio: "https://github.com/SihomaSa/ChalengeAluraAhorcado",
         acessibilidade: 'Imagem de animais fictícios do desenho pokémon.'
       },
-
-
-
+    ],
+    voluntariado:[
+      {
+        imagem: 'https://www.unsch.edu.pe/identidad/assets/images/logo-horizontal-png-600x333.png',
+        nome: 'Ingeniería de Sistemas',
+        status: '2018 - 2023',
+        acessibilidade: 'Texto com a palavra: Descomplica! Descomplica é uma faculdade digital.'
+      },
+      {
+        imagem: 'https://www.certus.edu.pe/wp-content/uploads/2018/12/certus-logo-1-01-copy-3@2x.png',
+        nome: 'Beca Bicentenario - FullStack',
+        status: '2022 - 2023',
+        acessibilidade: 'Imagem de um certificado de conclusão de curso da instituição, Danki Code.'
+      },
+      {
+        imagem: 'https://www.alura.com.br/assets/img/challenges/oracle-one/share_image.1647533644.jpg',
+        nome: 'Front-End',
+        status: '2022 - 2023',
+        acessibilidade: 'Imagem de um certificado de conclusão de curso da instituição Alura.'
+      }
     ],
     contact: {
       imagem: contato(),

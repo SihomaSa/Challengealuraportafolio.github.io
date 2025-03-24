@@ -8,8 +8,8 @@ export function Voluntariado() {
   section.classList.add('voluntariado')
 
   const h2 = montarElemento('h2', 'voluntariado__titulo');
-  h2.textContent = 'Formación Académica';
-  h2.setAttribute('id','Formación')
+  h2.textContent = 'Voluntariado';
+  h2.setAttribute('id','Voluntariado')
 
   section.appendChild(h2);
 
